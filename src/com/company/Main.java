@@ -1,6 +1,9 @@
 package com.company;
 
 // un dreptunghi are 4 laturi by the way
+
+// 1. commit
+// 2. push
 class Dreptunghi {
     int l1;
     int l2;
@@ -11,6 +14,7 @@ class Dreptunghi {
         this.l3 = l3;
 
     }
+    // perimetru - suma celor 4 laturi
     int getPerimetru(){
         return l1+l2+l3;
     }
