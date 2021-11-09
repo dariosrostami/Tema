@@ -1,6 +1,6 @@
 package com.company;
 
-
+// un dreptunghi are 4 laturi by the way
 class Dreptunghi {
     int l1;
     int l2;
