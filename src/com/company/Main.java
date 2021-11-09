@@ -23,6 +23,8 @@ class Dreptunghi {
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	Dreptunghi x;
+    x = new Dreptunghi(5, 8, 10);
+    x.afisareDreptunghi();
     }
 }
